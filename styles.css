@@ -8620,12 +8620,12 @@ input, select, textarea {
                 display: flex;
             }
             
-            #second .content {
-                flex: 1; /* Content will take 2/3 of the width */
+            /* #second .content {
+                flex: 1; 
             }
             
             #second .image {
-                flex: 2; /* Image will take 1/3 of the width */
+                flex: 2;
             }
 
             #first {
@@ -8633,11 +8633,11 @@ input, select, textarea {
             }
             
             #first .content {
-                flex: 1; /* Content will take 2/3 of the width */
+                flex: 1; 
             }
             
             #first .image {
-                flex: 2; /* Image will take 1/3 of the width */
+                flex: 2; 
             }
 
 			#third .image{
@@ -8651,7 +8651,7 @@ input, select, textarea {
 			}
 			#fourth .content{
 				flex: 1;
-			}
+			} */
 
             .animated-image {
                 width: calc(50% - 5px); /* Adjust width and margin as needed */
